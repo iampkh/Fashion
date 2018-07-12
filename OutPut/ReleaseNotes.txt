@@ -1,0 +1,18 @@
+App Name :  Fashion
+
+Apk Name : Fashion.apk
+
+Release Description:
+ This is the sample base project for the Fashion app, which has an login screen and list of items screen which is retreived dynamically from web service.
+ A sample junit is developed with Mockito library.
+
+Library Used:
+    RxAndroid
+    ButterKnife
+    Retrofit
+    Picasso
+    CardView
+    RecyclerView
+    Mockito(Junit)
+    
+
